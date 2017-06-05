@@ -52,9 +52,8 @@ title: 留言板「MESSAGE」
 <ol id="playlist"></ol>
 </div>
 
-<script src="/js/jquery.min.js"></script>
+<!-- <script src="/js/jquery.min.js"></script>
 <script src="/js/jquery.marquee.min.js"></script>
-
 <script>
 	var	playlist = [
 {title:"My All",artist:"浜崎あゆみ",mp3:"http://omjh2j5h3.bkt.clouddn.com/music/%E6%B5%9C%E5%B4%8E%E3%81%82%E3%82%86%E3%81%BF%20-%20MY%20ALL.mp3",cover:"http://p4.music.126.net/7VJn16zrictuj5kdfW1qHA==/3264450024433083.jpg?param=106x106",},
@@ -72,15 +71,14 @@ title: 留言板「MESSAGE」
   var autoplay = true;
 </script>
 <script src="/js/player.js"></script>
-<script>
-
+<script> 
 function bgChange(){
 	var lis= $('.lib');
 	for(var i=0; i<lis.length; i+=2)
 	lis[i].style.background = 'rgba(246, 246, 246, 0.5)';
 }
 window.onload = bgChange;
-</script>
+</script>-->
 
 <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -89,19 +87,18 @@ window.onload = bgChange;
 
 
 
-<script>
+ <script>
 myVid=document.getElementById("audio1");
 
 function setHalfVolume()
   {
   myVid.volume=0.2;
   }
-
-</script>  -->
+</script>
 
 
 <!-- 多说评论框 start -->
-	<div class="ds-thread" data-thread-key="/liuyan/" data-title="留言板" data-url="http://roboutkang/liuyan/"></div>
+	<!--<div class="ds-thread" data-thread-key="/liuyan/" data-title="留言板" data-url="http://roboutkang/liuyan/"></div>-->
 <!-- 多说评论框 end -->
 <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
 <script type="text/javascript">
@@ -114,7 +111,7 @@ var duoshuoQuery = {short_name:"robotkang"};
 		(document.getElementsByTagName('head')[0]
 		 || document.getElementsByTagName('body')[0]).appendChild(ds);
 	})();
-	</script>
+	</script>-->
 <!-- 多说公共JS代码 end -->
 
 <p>
