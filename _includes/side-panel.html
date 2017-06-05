@@ -11,7 +11,7 @@ p.flower {background-image: url(http://7sbmib.com1.z0.glb.clouddn.com/body_backg
         <!-- 头像效果-start -->
         <div class="ih-item circle effect right_to_left">
           <!-- 这里有个跳转闪回的问题 -->
-            <a href="https://pongker.github.io/pwsite/#blog" title="前往 {{ site.title }} 的主页" class="blog-button">
+            <a href="/#blog" title="前往 {{ site.title }} 的主页" class="blog-button">
                 <div class="img"><img src="https://raw.githubusercontent.com/pongker/pwsite/gh-pages/images/avatar.jpg" alt="img"></div>
                 <!--<div class="info">
                     <div class="info-back">
@@ -30,7 +30,7 @@ p.flower {background-image: url(http://7sbmib.com1.z0.glb.clouddn.com/body_backg
             </a>
         </div>
         <!-- 头像效果-end -->
-        <h1 class="panel-cover__title panel-title"><a href="https://pongker.github.io/pwsite/#blog" title="link to homepage for {{ site.title }}" class="blog-button">{{ site.title }}</a></h1>
+        <h1 class="panel-cover__title panel-title"><a href="/#blog" title="link to homepage for {{ site.title }}" class="blog-button">{{ site.title }}</a></h1>
         {% if site.subtitle %}
         <span class="panel-cover__subtitle panel-subtitle">{{site.subtitle}}</span>
         {% endif %}
@@ -47,7 +47,7 @@ p.flower {background-image: url(http://7sbmib.com1.z0.glb.clouddn.com/body_backg
           <div>
             <nav class="cover-navigation cover-navigation--primary">
               <ul class="navigation">
-                <li class="navigation__item"><a href="https://pongker.github.io/pwsite/#blog" title="{{site.blog_button.description}}" class="blog-button">{{site.blog_button.title}}</a></li>
+                <li class="navigation__item"><a href="/#blog" title="{{site.blog_button.description}}" class="blog-button">{{site.blog_button.title}}</a></li>
                 {% for item in site.nav %}
                   <li class="navigation__item"><a href="{{item.url}}" title="{{item.description}}">{{item.title}}</a></li>
                 {% endfor %}
