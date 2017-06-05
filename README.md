@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-# leopard
 
+# leopard
 [leopard](http://robotkang.cc) 是一个简洁的博客模板。
 
 ### 使用条件
