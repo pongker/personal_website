@@ -3,7 +3,7 @@ layout: page
 title: 留言板「MESSAGE」
 ---
 
-<img src="/images/321863.jpg" width="683" height="384" alt="huanying"/>
+<img src="https://raw.githubusercontent.com/pongker/pwsite/gh-pages/images/321863.jpg" width="683" height="384" alt="chaochaojiqiren"/>
 
 
 <p><h4>Anything to say?</h4>
