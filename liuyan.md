@@ -3,7 +3,7 @@ layout: page
 title: 留言板「MESSAGE」
 ---
 
-<img src="/images/321863.jpg" width=50% height=30% alt="huanying"/>
+<img src="/images/321863.jpg" alt="huanying" style="width:50%,height:30%"/>
 
 
 <p><h4>Anything to say?</h4>
