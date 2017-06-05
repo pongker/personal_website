@@ -525,7 +525,7 @@ img::-moz-selection {
     width: 100%;
     max-width: none;
     height: 100%;
-    background: url(/images/main_back.jpg) top left no-repeat ;
+    background: url(https://raw.githubusercontent.com/pongker/pongker.github.com/master/images/main_back.jpg) top left no-repeat ;
     background-size: cover; }
 
   .panel-cover--collapsed {
