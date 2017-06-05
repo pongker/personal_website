@@ -25,5 +25,5 @@ Jekyll 需要依赖：Ruby、bundler
 非常感谢[robotkang](https://github.com/MengZheK/kangblog.github.io.git)的模板支持。
 <!-- 本博客在[Jekyll搭建个人博客](http://baixin.io/2016/10/jekyll_tutorials1/)和[Vno Jekyll](https://github.com/onevcat/vno-jekyll)基础上修改的。   -->
 =======
-# jekyll_demo
->>>>>>> deb25cf2e40b7fe7d001fc0ef6a80d910e51a25c
+
+>>>>>>> 
